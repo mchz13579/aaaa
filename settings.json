@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6281235948571",
+	"ownerNumberr": "6281235948571",
+	"cr": "@PhinixStoreོ",
+	"ownername": "PhinixStoreོ",
+	"botname":"BTR-BOT",
+	"thumb":"thumbnail.png",
+	"thumbnail":"thumbnail.png",
+	"fakethumb":"thumbnail.png", 
+	"donasi":"https://saweria.co/Phinix",
+	"fake": " 「  BTR-BOT  」"
+}
